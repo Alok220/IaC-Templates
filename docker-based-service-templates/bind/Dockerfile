@@ -1,4 +1,4 @@
-FROM ubuntu:focal-20200423
+FROM ubuntu:focal
 
 ENV BIND_USER=bind \
     BIND_VERSION=9.16.1 \
